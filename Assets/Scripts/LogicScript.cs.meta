@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71c36a7098c5146279169d2843fe87c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 8300000, guid: e3b2a625d23d4f129ad40da08cd1d001, type: 3}
+    propertyPath: scoreSound
+    objectReference: {fileID: 8300000, guid: e3b2a625d23d4f129ad40da08cd1d001, type: 3}
+  - target: {fileID: 8300000, guid: 0bb440225a8a4cf59e4bb5e02f34d002, type: 3}
+    propertyPath: collisionSound
+    objectReference: {fileID: 8300000, guid: 0bb440225a8a4cf59e4bb5e02f34d002, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

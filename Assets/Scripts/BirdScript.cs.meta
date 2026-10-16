@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd61fa154828e4dc68d87324bf54fc6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 8300000, guid: 27f20ba3035c4966b6f55d40c2a2d001, type: 3}
+    propertyPath: flapSound
+    objectReference: {fileID: 8300000, guid: 27f20ba3035c4966b6f55d40c2a2d001, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
