@@ -30,6 +30,6 @@ Une collision avec un tuyau ou un autre obstacle arrête la partie et affiche l�
 
 ## Sons et éléments visuels
 
-Trois effets sonores accompagnent les actions principales : le battement au saut, le passage d’un tuyau qui rapporte un point et la collision. Les ailes sont jaunes et contrastent avec le corps rouge de l’oiseau ainsi qu’avec les fonds distincts des niveaux.///
+Trois effets sonores accompagnent les actions principales : le battement au saut, le passage d’un tuyau qui rapporte un point et la collision. Les ailes sont jaunes et contrastent avec le corps rouge de l’oiseau ainsi qu’avec les fonds distincts des niveaux.
 
 
