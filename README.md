@@ -32,8 +32,4 @@ Une collision avec un tuyau ou un autre obstacle arrête la partie et affiche l�
 
 Trois effets sonores accompagnent les actions principales : le battement au saut, le passage d’un tuyau qui rapporte un point et la collision. Les ailes sont jaunes et contrastent avec le corps rouge de l’oiseau ainsi qu’avec les fonds distincts des niveaux.
 
-## Organisation technique
 
-Le projet est développé avec **Unity 2021.3.5f1**. La scène d’origine et les deux scènes supplémentaires utilisent les mêmes principales briques de jeu. Les scripts répartissent les responsabilités : `BirdScript` gère les commandes et les collisions, `PipeSpawnScript` crée les tuyaux, `PipeMoveScript` les déplace, `PipeMiddleScript` détecte le passage qui rapporte un point, et `LogicScript` gère le score, les transitions, l’écran de fin et le redémarrage.
-
-Le projet a été poussé sur GitHub dans le dépôt [`yosrakaroui/Bird_Game`](https://github.com/yosrakaroui/Bird_Game), branche `main`.
